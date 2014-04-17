@@ -10,6 +10,9 @@ public class HelloWorld {
 		var2 = "Second";
 	}
 
+	/**
+	 * Simple toString
+	 */
 	@Override
 	public String toString() {
 		return var1 + var2;
