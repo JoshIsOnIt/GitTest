@@ -4,10 +4,12 @@ public class HelloWorld {
 
 	String var1;
 	String var2;
+	String var3;
 	
 	public HelloWorld() {
 		var1 = "First";
 		var2 = "Second";
+		var3 = "Third";
 	}
 
 	/**
