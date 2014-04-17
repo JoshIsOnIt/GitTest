@@ -9,5 +9,9 @@ public class HelloWorld {
 		var1 = "First";
 		var2 = "Second";
 	}
-	
+
+	@Override
+	public String toString() {
+		return var1 + var2;
+	}
 }
