@@ -1,5 +1,10 @@
 package com.josh;
 
+/**
+ * HelloWorld
+ * @author jblinick
+ *
+ */
 public class HelloWorld {
 
 	String var1;
