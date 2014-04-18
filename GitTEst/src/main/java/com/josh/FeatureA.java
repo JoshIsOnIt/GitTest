@@ -7,6 +7,15 @@ public class FeatureA {
 	String featureName;
 	Date dateCreated;
 	Integer age; 
+	Integer heightInInches;
+	
+	public Integer getHeightInInches() {
+		return heightInInches;
+	}
+
+	public void setHeightInInches(Integer heightInInches) {
+		this.heightInInches = heightInInches;
+	}
 
 	public Integer getAge() {
 		return age;
