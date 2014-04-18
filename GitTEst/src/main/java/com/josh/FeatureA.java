@@ -6,7 +6,7 @@ public class FeatureA {
 
 	String featureName;
 	Date dateCreated;
-	Integer age;
+	Integer age; 
 
 	public Integer getAge() {
 		return age;
