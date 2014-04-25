@@ -1,7 +1,13 @@
 package com.josh;
 
+/**
+ * FeatureB is a great Feature!
+ * @author jblinick
+ *
+ */
 public class FeatureB {
 
+	// these are just two nice variables
 	String vara;
 	String varb;
 
