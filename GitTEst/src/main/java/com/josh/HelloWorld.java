@@ -16,6 +16,7 @@ public class HelloWorld {
 		var1 = "First";
 		var2 = "Second";
 		var3 = "Third";
+		varForFeatureX = "New AWESOME Feature!!!";
 	}
 
 	/**
