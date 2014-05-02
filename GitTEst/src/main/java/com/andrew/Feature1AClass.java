@@ -1,6 +1,6 @@
 package com.andrew;
 
-public class Feature1Class {
+public class Feature1AClass {
 	// something
 	
 	
