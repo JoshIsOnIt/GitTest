@@ -1,7 +1,8 @@
 package com.josh;
 
 /**
- * Feature E is a great feature
+ * Feature E is a great feature.  It is going to do X,Y and Z.  I hope this
+ * comment is sufficient.
  * 
  * @author jblinick
  * 
