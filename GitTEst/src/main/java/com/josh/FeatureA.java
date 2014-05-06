@@ -7,6 +7,7 @@ public class FeatureA {
 	String featureName;
 	Date dateCreated;
 	Integer age; 
+	Date birthDay;
 
 	public Integer getAge() {
 		return age;
@@ -30,5 +31,13 @@ public class FeatureA {
 
 	public void setDateCreated(Date dateCreated) {
 		this.dateCreated = dateCreated;
+	}
+
+	public Date getBirthDay() {
+		return birthDay;
+	}
+
+	public void setBirthDay(Date birthDay) {
+		this.birthDay = birthDay;
 	}
 }
