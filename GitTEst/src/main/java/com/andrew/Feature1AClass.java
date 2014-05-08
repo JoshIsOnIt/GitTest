@@ -18,6 +18,9 @@ public class Feature1AClass {
 	
 	// hotfix001 addition
 
+	
+	// hotfix002 addition
+	
 	String propertyA;
 	String propertyB;
 
