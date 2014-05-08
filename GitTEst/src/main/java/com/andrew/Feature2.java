@@ -5,4 +5,6 @@ public class Feature2 {
 	
 	// more code
 	
+	// hotfix003 changes
+	
 }
