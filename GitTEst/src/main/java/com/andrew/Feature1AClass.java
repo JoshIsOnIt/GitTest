@@ -5,4 +5,7 @@ public class Feature1AClass {
 	
 	
 	// and more things
+	
+	
+	// fixed something
 }
